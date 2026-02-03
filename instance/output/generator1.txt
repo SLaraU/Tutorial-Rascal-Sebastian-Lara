@@ -1,0 +1,28 @@
+Info of the planning DepartmentABC
+All Persons:
+       Dave
+       Fred
+       Bob
+       Alice
+       Bob
+       Carol
+       Alice
+       
+All actions of tasks:
+======
+       Paper for journal Overview 2 with duration: 9 w &
+       Lunch at location Canteen 8 with duration: 1 h &
+       Pay 5000 Euro 2  &
+       Paper for journal Strategy 5  &
+       Pay 3500 Euro 3  &
+       Meeting with topic Training 7 with duration: 3 d &
+       Meeting with topic Demo 4 with duration: 90 m
+=====
+Other way of listing all tasks:
+       Paper for journal Overview 2 ,
+       Lunch at location Canteen 8 ,
+       Pay 5000 Euro 2 ,
+       Paper for journal Strategy 5 ,
+       Pay 3500 Euro 3 ,
+       Meeting with topic Training 7 ,
+       Meeting with topic Demo 4
